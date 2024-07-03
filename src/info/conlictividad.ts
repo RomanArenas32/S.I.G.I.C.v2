@@ -1,0 +1,1 @@
+export const conflictividad = ['--Seleccione nivel de conflictividad--','baja', 'media', 'alta'];
